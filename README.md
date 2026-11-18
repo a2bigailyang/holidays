@@ -17,3 +17,4 @@ This project creates a public, read-only `.ics` feed with common international h
 - International dates include Easter (computus), US Thanksgiving, Mother's Day (second Sunday of May), Father's Day (third Sunday of June), and fixed-date holidays.
 - Calendar subscription refresh intervals are controlled by the calendar client; changes are not necessarily instant.
 - If your repository is named something other than `holidays`, adjust the URL accordingly.
+Additional calendar: school.ics — School Timetable.
